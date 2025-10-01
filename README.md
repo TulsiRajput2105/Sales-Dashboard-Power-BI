@@ -10,3 +10,4 @@ DAX – Calculated measure
 ✔️ Profit margin and growth KPIs
 ✔️ Interactive filters (date, region, category)
 ✔️ Visual storytelling for business insights
+<img width="996" height="549" alt="Screenshot 2025-10-01 111614" src="https://github.com/user-attachments/assets/31076b2c-9065-431f-9ea5-925ab1cd0ae7" />
